@@ -12,11 +12,23 @@ I'm a student at BYU studying computer science while also creating gadets and le
 <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 ### 📰 Recent Projects 
-![TSP](images/TSPpic.png)  
-![Convex Hull](images/ConvexHullPic.png)
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 10px;">
+        ![TSP](images/TSPpic.png)
+    </div>
+    <div style="flex: 50%; padding: 10px;">
+        ![Convex Hull](images/ConvexHullPic.png)
+    </div>
+</div>
 
-![Tweeter](images/TweeterAppPic.png)  
-![Family Map](images/FamilyMapAppPic.png)
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 10px;">
+        ![Tweeter](images/TweeterAppPic.png)
+    </div>
+    <div style="flex: 50%; padding: 10px;">
+        ![Family Map](images/FamilyMapAppPic.png)
+    </div>
+</div>
                                                  
 <!--
 **tpurba/tpurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
