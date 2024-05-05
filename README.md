@@ -1,5 +1,5 @@
 # Hi there 👋
-
+**'Tinkerer(Software developer/Raspberry Pi enthusiast/problem solver)'**
 <!--
 **tpurba/tpurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
