@@ -1,5 +1,11 @@
 # Hi there 👋
 **`Tinkerer(Software developer/Raspberry Pi enthusiast/problem solver)`**
+I'm a student at BYU studying computer science while also creating gadets and learning more about hardware. 
+
+### 🧰 Languages and Tools 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img />
+
 <!--
 **tpurba/tpurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
