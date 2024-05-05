@@ -12,12 +12,12 @@ I'm a student at BYU studying computer science while also creating gadets and le
 <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 ### 📰 Recent Projects 
-<img src="images/TSPpic.png" alt="TSP" style="float:left; margin-right:10px;" />
-<img src="images/ConvexHullPic.png" alt="Convex Hull" style="float:right; margin-left:10px;" />
+<img src="images/TSPpic.png" alt="TSP" height= "60px" width="60px" style="float:left; margin-right:10px;" />
+<img src="images/ConvexHullPic.png" alt="Convex Hull" height= "60px" width="60px" style="float:right; margin-left:10px;" />
 <br clear="both" />
 
-<img src="images/TweeterAppPic.png" alt="Tweeter" style="float:left; margin-right:10px;" />
-<img src="images/FamilyMapAppPic.png" alt="Family Map" style="float:right; margin-left:10px;" />
+<img src="images/TweeterAppPic.png" alt="Tweeter" height= "60px" width="60px" style="float:left; margin-right:10px;" />
+<img src="images/FamilyMapAppPic.png" alt="Family Map" height= "60px" width="60px" style="float:right; margin-left:10px;" />
 <br clear="both" />
                                                  
 <!--
