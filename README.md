@@ -14,7 +14,7 @@ I'm a student at BYU studying computer science while also creating gadets and le
 ### 📰 Recent Projects 
 <p height= "60px" width="60px">
 <img src="images/TSPpic.png" alt="TSP" height= "300px" width="300px" style="float:left; margin-right:50px;" />
-\<p width="60px">
+\<p width="20px">
 <img src="images/ConvexHullPic.png" alt="Convex Hull" height= "300px" width="300px" style="float:right; margin-left:50px;" />
 
 
