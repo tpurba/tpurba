@@ -17,8 +17,8 @@ I'm a student at BYU studying computer science while also creating gadets and le
 <img src="images/ConvexHullPic.png" alt="Convex Hull" height= "300px" width="300px" style="float:right; margin-left:50px;" />
 
 
-<img src="images/TweeterAppPic.png" alt="Tweeter" height= "300px" width="300px" style="float:left; margin-right:50px;" />
-<img src="images/FamilyMapAppPic.png" alt="Family Map" height= "300px" width="300px" style="float:right; margin-left:50px;" />
+<img src="images/TweeterAppPic.png" alt="Tweeter" height= "500px" width="300px" style="float:left; margin-right:50px;" />
+<img src="images/FamilyMapAppPic.png" alt="Family Map" height= "500px" width="300px" style="float:right; margin-left:50px;" />
 
 
                                                  
