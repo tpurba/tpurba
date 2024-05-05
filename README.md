@@ -13,12 +13,15 @@ I'm a student at BYU studying computer science while also creating gadets and le
 <img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 ### 📰 Recent Projects 
 <p height= "60px" width="60px">
-<img src="images/TSPpic.png" alt="TSP" height= "300px" width="300px"  />
-<img src="images/ConvexHullPic.png" alt="Convex Hull" height= "300px" width="300px" />
+<div style="margin: 20px;">
+    <img src="images/TSPpic.png" alt="TSP" height= "300px" width="300px"  />
+    <img src="images/ConvexHullPic.png" alt="Convex Hull" height= "300px" width="300px" />
 
 
-<img src="images/TweeterAppPic.png" alt="Tweeter" height= "500px" width="300px" style="float:left; margin-right:10px;" />
-<img src="images/FamilyMapAppPic.png" alt="Family Map" height= "500px" width="300px" style="float:right; margin-left:10px;" />
+    <img src="images/TweeterAppPic.png" alt="Tweeter" height= "500px" width="300px" style="float:left; margin-right:10px;" />
+    <img src="images/FamilyMapAppPic.png" alt="Family Map" height= "500px" width="300px" style="float:right; margin-left:10px;" />
+</div>
+
 
 
                                                  
