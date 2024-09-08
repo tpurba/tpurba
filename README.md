@@ -14,7 +14,7 @@ I'm a student at BYU studying computer science while also creating gadets and le
 ### 📰 Recent Projects 
 <p height= "60px" width="60px">
 <div style="margin: 20px;">
-    <a href="[https://example.com/TSP](https://github.com/tpurba/CS312-Traveling-Sales-man)">
+    <a href="https://github.com/tpurba/CS312-Traveling-Sales-man">
         <img src="images/TSPpic.png" alt="TSP" height= "300px" width="300px"/>
     </a>
     <img src="images/ConvexHullPic.png" alt="Convex Hull" height= "300px" width="300px" />
