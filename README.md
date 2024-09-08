@@ -12,14 +12,21 @@ I'm a student at BYU studying computer science while also creating gadets and le
 <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 ### 📰 Recent Projects 
+#### By clicking on the image it will take you to that project repository! 
 <p height= "60px" width="60px">
 <div style="margin: 20px;">
     <a href="https://github.com/tpurba/CS312-Traveling-Sales-man">
         <img src="images/TSPpic.png" alt="TSP" height= "300px" width="300px"/>
     </a>
-    <img src="images/ConvexHullPic.png" alt="Convex Hull" height= "300px" width="300px" />
-    <img src="images/TweeterAppPic.png" alt="Tweeter" height= "500px" width="300px" style="float:left; margin-right:10px;" />
-    <img src="images/FamilyMapAppPic.png" alt="Family Map" height= "500px" width="300px" style="float:right; margin-left:10px;" />
+    <a href="https://github.com/tpurba/ConvexHull">
+        <img src="images/ConvexHullPic.png" alt="Convex Hull" height= "300px" width="300px" />
+    </a>
+    <a href="https://github.com/tpurba/CS340-Tweeter-app">
+        <img src="images/TweeterAppPic.png" alt="Tweeter" height= "500px" width="300px" style="float:left; margin-right:10px;" />
+    </a>
+    <a href="https://github.com/tpurba/CS240FamilyApp">
+        <img src="images/FamilyMapAppPic.png" alt="Family Map" height= "500px" width="300px" style="float:right; margin-left:10px;" />
+    </a>
 </div>
 
 
