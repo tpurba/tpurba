@@ -11,8 +11,7 @@ I'm a student at BYU studying computer science while also creating gadets and le
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-### 📰 Recent Projects 
-#### By clicking on the image it will take you to that project repository! 
+### 📰 Recent Projects(By clicking on the image it will take you to that project repository! )
 <p height= "60px" width="60px">
 <div style="margin: 20px;">
     <a href="https://github.com/tpurba/CS312-Traveling-Sales-man">
