@@ -48,13 +48,45 @@ I’m a Software Engineer focused on building scalable full-stack systems, Sales
 
 ---
 
-## 🚀 Selected Projects
 
-- **Biblio-trace 3.0** — Full-stack library system (React, MySQL, JWT, data migration tools)  
-- **Pantry-AI** — AI-powered food tracking + recipe generator (Hackathon, Top 83%)  
-- **Read Code** — AI-based code learning tool using OpenAI API + MongoDB  
-- **Natural Language SQL** — AI system translating natural language → SQL queries  
-- **Tweeter App** — Scalable Android social app handling 10,000+ posts  
+## 🚀 Projects Gallery
+
+<table>
+	<tr>
+		<td align="center">
+			<img src="images/biblio3.png" width="360" /><br/>
+			<b>Biblio-trace 3.0</b><br/>
+			Full-stack library system (React, MySQL, JWT, data migration tools)
+		</td>
+		<td align="center">
+			<img src="images/pantryAI.jpg" width="360" /><br/>
+			<b>Pantry-AI</b><br/>
+			AI-powered food tracking + recipe generator (Hackathon, Top 83%)
+		</td>
+		<td align="center">
+			<img src="images/TweeterAppPic.png" width="180" /><br/>
+			<b>Tweeter App</b><br/>
+			Scalable Android social app handling 10,000+ posts
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img src="images/byuORc.jpg" width="360" /><br/>
+			<b>BYU Office of Research & Computing</b><br/>
+			Storage analytics, search optimization, authentication systems
+		</td>
+		<td align="center">
+			<img src="images/FamilyMapAppPic.png" width="180" /><br/>
+			<b>Family Map App</b><br/>
+			(Project details to be added)
+		</td>
+		<td align="center">
+			<img src="images/tradeoff_logo.webp" width="360" /><br/>
+			<b>Tradeoff</b><br/>
+			(Project details to be added)
+		</td>
+	</tr>
+</table>
 
 ---
 
